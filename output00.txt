@@ -1,0 +1,10 @@
+
+To Search by FIRST NAME enter 1
+To search by LAST NAME  enter 2
+To search by PHONE      enter 3
+Enter FIRST NAME: 
+
+Record found:
+  First Name : Adriana
+  Last Name  : McFade
+  Phone      : 901-269-0328

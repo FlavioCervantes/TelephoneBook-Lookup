@@ -1,0 +1,11 @@
+
+To Search by FIRST NAME enter 1
+To search by LAST NAME  enter 2
+To search by PHONE      enter 3
+Enter LAST NAME: 
+
+Record found:
+  First Name : Alma
+  Last Name  : Morales
+  Phone      : 891-874-5186
+

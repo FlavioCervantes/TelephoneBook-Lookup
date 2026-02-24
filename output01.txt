@@ -1,0 +1,8 @@
+
+To Search by FIRST NAME enter 1
+To search by LAST NAME  enter 2
+To search by PHONE      enter 3
+Enter LAST NAME: 
+
+Record not found.
+
