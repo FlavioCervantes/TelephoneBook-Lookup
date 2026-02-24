@@ -1,0 +1,7 @@
+# Build artifacts
+TelephoneBook
+*.o
+*.out
+
+# Runtime data file
+contacts.dat
